@@ -1,0 +1,17 @@
+{
+  "name": "js-wdio-testproj",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunmorty/js-wdio-testProj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+}
